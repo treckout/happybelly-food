@@ -1,6 +1,6 @@
 # happybelly Multi-vendor
 
-[![Demo video](https://i.imgur.com/araSrCj.png)](https://www.youtube.com/watch?v=8sE7ivnFyo0&feature=youtu.be&ab_channel=NinjasCode)
+
 
 <br/>
 
@@ -49,7 +49,7 @@ The required credentials and keys have been set already. You can setup your own 
 
 The version of nodejs should be between 14.0 to 16.0
 
--[Link to Video tutorial/demonstration of Setup](https://happybelly-1.gitbook.io/happybelly-multivendor/configurations/google-maps-api-keys)
+
 
 ## Prerequisites:
 
@@ -164,10 +164,6 @@ happybelly Multi-Vendor Solution is an open source project. We welcome contribut
 - [Instagram](https://www.instagram.com/happybelly.nb/)
 - [LinkedIn](https://www.linkedin.com/company/14583783/)
 
-## Disclaimer:
 
-The frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For further information, contact us on the channels provided below.
 
-## Contact Us:
 
-sales@ninjascode.com
