@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "1039230728072",
+    "firebase_url": "https://happybelly-391722-default-rtdb.firebaseio.com",
+    "project_id": "happybelly-391722",
+    "storage_bucket": "happybelly-391722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039230728072:android:a90cc5335307785f67ac3d",
+        "android_client_info": {
+          "package_name": "com.happybelly.courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039230728072-v352l4j9enof3dmds5r32hg7i06lh7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8FvnBShdup0a_m0e7Easg6A15evonVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039230728072-22kvdvlhtunhbtqrktqjkmou70r6vltm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039230728072-enmql032dkm8ol62ukndk6cn6hcjqt8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039230728072:android:1688f2514699040467ac3d",
+        "android_client_info": {
+          "package_name": "com.happybelly.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039230728072-v352l4j9enof3dmds5r32hg7i06lh7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8FvnBShdup0a_m0e7Easg6A15evonVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039230728072-22kvdvlhtunhbtqrktqjkmou70r6vltm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039230728072-enmql032dkm8ol62ukndk6cn6hcjqt8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039230728072:android:78140ac966bb263c67ac3d",
+        "android_client_info": {
+          "package_name": "com.happybelly.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039230728072-v352l4j9enof3dmds5r32hg7i06lh7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8FvnBShdup0a_m0e7Easg6A15evonVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039230728072-22kvdvlhtunhbtqrktqjkmou70r6vltm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039230728072-enmql032dkm8ol62ukndk6cn6hcjqt8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039230728072:android:e1aad0f75b2be65d67ac3d",
+        "android_client_info": {
+          "package_name": "multivendor.happybelly.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039230728072-v352l4j9enof3dmds5r32hg7i06lh7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8FvnBShdup0a_m0e7Easg6A15evonVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039230728072-22kvdvlhtunhbtqrktqjkmou70r6vltm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039230728072-enmql032dkm8ol62ukndk6cn6hcjqt8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

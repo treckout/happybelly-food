@@ -1,0 +1,73 @@
+{
+  "expo": {
+    "name": "happybelly courier",
+    "description": "HappyBelly Courier is a cutting-edge app designed to revolutionize food delivery services, providing a seamless and efficient experience for both customers and delivery drivers. Similar to Uber Eats Rider, HappyBelly Courier connects users with a network of reliable and dedicated couriers who ensure that delicious meals from local restaurants are delivered promptly to customers' doorsteps. With HappyBelly Courier, customers can easily browse through a wide range of restaurants and menus, placing their orders with just a few taps on their smartphones. The app's user-friendly interface allows customers to track their orders in real-time, ensuring transparency and peace of mind throughout the delivery process.For delivery drivers, HappyBelly Courier offers a flexible and rewarding opportunity. Couriers can choose their working hours and accept delivery requests based on their availability and location. The app provides efficient route planning, minimizing delivery times and maximizing earnings for drivers.HappyBelly Courier prioritizes the satisfaction and happiness of both customers and couriers. It strives to provide a seamless, reliable, and convenient food delivery experience, ensuring that everyone involved can enjoy a happy belly and the joy of great food delivered right to their doorstep.",
+    "version": "1.1.16",
+    "slug": "food-delivery-courier",
+    "privacy": "public",
+    "androidStatusBar": {
+      "backgroundColor": "#000"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#f8c936"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.happybelly.courier",
+      "config": {
+        "googleMapsApiKey": "AIzaSyDUTpMXn2E7h4gLf6jWszLiprGyhchCF8k"
+      },
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "$(PRODUCT_NAME) uses your location for features like finding orders nearby and tracking customer orders!.",
+        "UIBackgroundModes": [
+          "location",
+          "fetch",
+          "remote-notification"
+        ]
+      }
+    },
+    "android": {
+      "versionCode": 23,
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDUTpMXn2E7h4gLf6jWszLiprGyhchCF8k"
+        }
+      },
+      "package": "com.happybelly.courier"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d2459419-b373-4ff5-a34a-431baef88d12"
+      }
+    }
+  },
+  "hooks": {
+    "postPublish": [
+      {
+        "file": "sentry-expo/upload-sourcemaps",
+        "config": {
+          "organization": "ninjas-code",
+          "project": "enatega-multivendor-app",
+          "authToken": "744ed798e04a40a896b0269c25f945de0e166db8362e41969b64d5e07ca80e65"
+        }
+      }
+    ]
+  }
+}
