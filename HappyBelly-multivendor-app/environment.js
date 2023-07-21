@@ -9,9 +9,9 @@ const ENV = {
     // GRAPHQL_URL: 'http://10.97.28.129:8001/graphql',
     // WS_GRAPHQL_URL: 'ws://10.97.28.129:8001/graphql',
     // SERVER_URL: 'http://10.97.28.129:8001/', // put / at the end of server url
-    GRAPHQL_URL: 'https://Enatega-multivendor.up.railway.app/graphql',
-    WS_GRAPHQL_URL: 'wss://Enatega-multivendor.up.railway.app/graphql',
-    SERVER_URL: 'https://Enatega-multivendor.up.railway.app/', // put / at the end of server url
+    GRAPHQL_URL: 'https://greedy-rake-production.up.railway.app/graphql',
+    WS_GRAPHQL_URL: 'wss://greedy-rake-production.up.railway.app/graphql',
+    SERVER_URL: 'https://greedy-rake-production.up.railway.app/', // put / at the end of server url
     IOS_CLIENT_ID_GOOGLE:
       '967541328677-uq7f7odvmeea2pb2sq0l7q320ds86536.apps.googleusercontent.com',
     ANDROID_CLIENT_ID_GOOGLE:
@@ -33,9 +33,9 @@ const ENV = {
     GOOGLE_PACES_API_BASE_URL: 'https://maps.googleapis.com/maps/api/place'
   },
   staging: {
-    GRAPHQL_URL: 'https://Enatega-multivendor.up.railway.app/graphql',
-    WS_GRAPHQL_URL: 'wss://Enatega-multivendor.up.railway.app/graphql',
-    SERVER_URL: 'https://Enatega-multivendor.up.railway.app/', // put / at the end of server url
+    GRAPHQL_URL: 'https://greedy-rake-production.up.railway.app/graphql',
+    WS_GRAPHQL_URL: 'wss://greedy-rake-production.up.railway.app/graphql',
+    SERVER_URL: 'https://greedy-rake-production.up.railway.app/', // put / at the end of server url
     IOS_CLIENT_ID_GOOGLE:
       '967541328677-nf8h4ou7rhmq9fahs87p057rggo95eah.apps.googleusercontent.com',
     ANDROID_CLIENT_ID_GOOGLE:
@@ -56,9 +56,9 @@ const ENV = {
     GOOGLE_PACES_API_BASE_URL: 'https://maps.googleapis.com/maps/api/place'
   },
   production: {
-    GRAPHQL_URL: 'https://Enatega-multivendor.up.railway.app/graphql',
-    WS_GRAPHQL_URL: 'wss://Enatega-multivendor.up.railway.app/graphql',
-    SERVER_URL: 'https://Enatega-multivendor.up.railway.app/', // put / at the end of server url
+    GRAPHQL_URL: 'https://greedy-rake-production.up.railway.app/graphql',
+    WS_GRAPHQL_URL: 'wss://greedy-rake-production.up.railway.app/graphql',
+    SERVER_URL: 'https://greedy-rake-production.up.railway.app/', // put / at the end of server url
     IOS_CLIENT_ID_GOOGLE:
       '967541328677-nf8h4ou7rhmq9fahs87p057rggo95eah.apps.googleusercontent.com',
     ANDROID_CLIENT_ID_GOOGLE:
