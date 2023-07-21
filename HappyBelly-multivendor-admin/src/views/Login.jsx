@@ -26,8 +26,8 @@ const LOGIN = gql`
 `
 const Login = props => {
   const [stateData, setStateData] = useState({
-    email: 'admin@gmail.com',
-    password: '123123',
+    email: '',
+    password: '',
     emailError: null,
     passwordError: null,
     error: null,
@@ -204,7 +204,6 @@ const Login = props => {
                 </Box>
                 <Box className={globalClasses.flexRow}>
                   <Input
-                    disabled
                     id="input-password"
                     name="input-password"
                     placeholder="Password"

@@ -1,10 +1,10 @@
-# Enatega Multi-vendor
+# Happybelly Multi-vendor
 
 [![Demo video](https://i.imgur.com/araSrCj.png)](https://www.youtube.com/watch?v=8sE7ivnFyo0&feature=youtu.be&ab_channel=NinjasCode)
 
 <br/>
 
-Our Enatega Multi-vendor food delivery solution is perfect for customers looking to deploy a readymade and easy to use platform for their food delivery and logistics business. Just like foodpanda and ubereats, our solution can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own foodpanda clone instantaneously.
+Our Happybelly Multi-vendor food delivery solution is perfect for customers looking to deploy a readymade and easy to use platform for their food delivery and logistics business. Just like foodpanda and ubereats, our solution can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own foodpanda clone instantaneously.
 
 <b>Our solution is open source but the backend and API are proprietary, and can be obtained via paid license.</b>
 
@@ -12,9 +12,9 @@ Our Enatega Multi-vendor food delivery solution is perfect for customers looking
 
 Our solution also comes with the following:
 
-- Enatega Multivendor Customer App
-- Enatega Multivendor Rider App
-- Enatega Multivendor Restaurant App
+- Happybelly Multivendor Customer App
+- Happybelly Multivendor Rider App
+- Happybelly Multivendor Restaurant App
 - Customer Website
 - Admin Web Dashboard
 - Application Program interface Server
@@ -49,7 +49,7 @@ The required credentials and keys have been set already. You can setup your own 
 
 The version of nodejs should be between 14.0 to 16.0
 
--[Link to Video tutorial/demonstration of Setup](https://enatega-1.gitbook.io/enatega-multivendor/configurations/google-maps-api-keys)
+-[Link to Video tutorial/demonstration of Setup](https://Happybelly-1.gitbook.io/Happybelly-multivendor/configurations/google-maps-api-keys)
 
 ## Prerequisites:
 
@@ -138,7 +138,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## Documentation and Demo Videos:
 
-Find the link for the complete documentation of the Enatega Multi Vendor Solution [here](https://enatega-1.gitbook.io/).
+Find the link for the complete documentation of the Happybelly Multi Vendor Solution [here](https://Happybelly-1.gitbook.io/).
 
 To check out video demo of admin dashboard please click [here](https://www.youtube.com/watch?v=18d_POMa8B4&ab_channel=NinjasCode)
 
@@ -146,24 +146,24 @@ To check out video demo of mobile applications please click [here](https://www.y
 
 ## Demos:
 
-- [Customer App Android](https://play.google.com/store/apps/details?id=com.enatega.multivendor)
-- [Customer App iOS](https://apps.apple.com/pk/app/enatega-multivendor/id1526488093)
-- [Rider App Android](https://play.google.com/store/apps/details?id=com.enatega.multirider)
-- [Rider App iOS](https://apps.apple.com/pk/app/enatega-mulitvendor-rider/id1526674511)
-- [Restaurant App Android](https://play.google.com/store/apps/details?id=multivendor.enatega.restaurant)
-- [Restaurant App iOS](https://apps.apple.com/pk/app/enatega-multivendor-restaurant/id1526672537)
+- [Customer App Android](https://play.google.com/store/apps/details?id=com.Happybelly.multivendor)
+- [Customer App iOS](https://apps.apple.com/pk/app/Happybelly-multivendor/id1526488093)
+- [Rider App Android](https://play.google.com/store/apps/details?id=com.Happybelly.multirider)
+- [Rider App iOS](https://apps.apple.com/pk/app/Happybelly-mulitvendor-rider/id1526674511)
+- [Restaurant App Android](https://play.google.com/store/apps/details?id=multivendor.Happybelly.restaurant)
+- [Restaurant App iOS](https://apps.apple.com/pk/app/Happybelly-multivendor-restaurant/id1526672537)
 - [Customer Web App](https://pensive-liskov-5320d4.netlify.app)
 - [Admin Dashboard](https://practical-minsky-95a652.netlify.app/)
 
 ## Contributing:
 
-Enatega Multi-Vendor Solution is an open source project. We welcome contributions of all kinds including documentation, bug fixes, feature requests, and code. Please read our [contributing guide](./contributing/contributing.md) for more information on how you can contribute.
+Happybelly Multi-Vendor Solution is an open source project. We welcome contributions of all kinds including documentation, bug fixes, feature requests, and code. Please read our [contributing guide](./contributing/contributing.md) for more information on how you can contribute.
 
 ## Get the Latest News
 
-- [Facebook](https://www.facebook.com/enatega)
-- [Twitter](https://twitter.com/EnategaA)
-- [Instagram](https://www.instagram.com/enatega.nb/)
+- [Facebook](https://www.facebook.com/Happybelly)
+- [Twitter](https://twitter.com/HappybellyA)
+- [Instagram](https://www.instagram.com/Happybelly.nb/)
 - [LinkedIn](https://www.linkedin.com/company/14583783/)
 
 ## Disclaimer:

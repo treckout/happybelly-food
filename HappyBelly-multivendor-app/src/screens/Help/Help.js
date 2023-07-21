@@ -19,7 +19,7 @@ const links = [
   {
     title: 'Live Chat',
     url:
-      'https://tawk.to/chat/64b7a9a8cc26a871b0295843/1h5mmtf1f/'
+      'https://tawk.to/chat/64b7a9a8cc26a871b0295843/1h5mmtf1f'
   },
   { title: 'About Us', url: 'https://happybelly.site/about-us/' }
 ]
