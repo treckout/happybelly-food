@@ -4,7 +4,6 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
-    "migrate":"mongo migrate deploy",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "eject": "expo eject",
@@ -72,8 +71,6 @@
     "graphql-tag": "^2.10.1",
     "i18n-js": "^3.2.2",
     "install": "^0.13.0",
-    "lottie-ios": "^3.4.1",
-    "lottie-react-native": "^5.1.6",
     "moment": "^2.29.1",
     "npm": "^9.6.1",
     "patch-package": "^6.5.1",

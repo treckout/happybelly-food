@@ -14,7 +14,7 @@ i18n.use(initReactI18next).init({
     km,
     zh
   },
-  lng: localStorage.getItem('HappyBelly-language') || 'en',
+  lng: localStorage.getItem('enatega-language') || 'en',
   fallbackLng: 'en',
   debug: true,
   interpolation: {

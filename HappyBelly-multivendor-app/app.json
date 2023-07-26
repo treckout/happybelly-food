@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "HappyBelly ",
-    "scheme": "HappyBelly",
+    "name": "Enatega Multivendor",
+    "scheme": "enategamultivendor",
     "version": "1.0.21",
-    "description": "HappyBelly is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
-    "slug": "HappyBelly",
+    "description": "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
+    "slug": "enategamultivendor",
     "privacy": "public",
     "androidStatusBar": {
       "backgroundColor": "#000"
@@ -18,16 +18,16 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "cover",
-      "backgroundColor": "#030200"
+      "backgroundColor": "#6FCF97"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.happybelly.multivendor",
+      "bundleIdentifier": "com.enatega.multivendor",
       "config": {
-        "googleMapsApiKey": "AIzaSyDUTpMXn2E7h4gLf6jWszLiprGyhchCF8k"
+        "googleMapsApiKey": "AIzaSyCzNP5qQql2a5y8lOoO-1yj1lj_tzjVImA"
       },
       "usesAppleSignIn": true,
       "infoPlist": {
@@ -40,18 +40,18 @@
     },
     "notification": {
       "iosDisplayInForeground": true,
-      "color": "#f7da41",
+      "color": "#6FCF97",
       "icon": "./assets/not-icon.png",
       "androidMode": "default",
-      "androidCollapsedTitle": "HappyBelly"
+      "androidCollapsedTitle": "Enatega Multivendor"
     },
     "android": {
       "versionCode": 23,
-      "package": "com.happybelly.multivendor",
+      "package": "com.enatega.multivendor",
       "googleServicesFile": "./google-services.json",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDUTpMXn2E7h4gLf6jWszLiprGyhchCF8k"
+          "apiKey": "AIzaSyCzNP5qQql2a5y8lOoO-1yj1lj_tzjVImA"
         }
       },
       "permissions": [
@@ -69,7 +69,7 @@
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
             "organization": "ninjas-code",
-            "project": "happybelly-multivendor-app",
+            "project": "enatega-multivendor-app",
             "authToken": "744ed798e04a40a896b0269c25f945de0e166db8362e41969b64d5e07ca80e65"
           }
         }
@@ -91,7 +91,7 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow $HappyBelly Multivendor to use your location."
+          "locationAlwaysAndWhenInUsePermission": "Allow $Enatega Multivendor to use your location."
         }
       ],
       "sentry-expo"
