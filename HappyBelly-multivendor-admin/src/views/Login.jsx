@@ -204,7 +204,6 @@ const Login = props => {
                 </Box>
                 <Box className={globalClasses.flexRow}>
                   <Input
-                    disabled
                     id="input-password"
                     name="input-password"
                     placeholder="Password"
