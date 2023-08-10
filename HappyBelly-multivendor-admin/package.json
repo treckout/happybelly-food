@@ -4,6 +4,7 @@
   "description": "HappyBelly Multivendor dashboard",
   "main": "index.js",
   "homepage": "admin.happybelly.site",
+  "proxy": "http://localhost:5000",
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-scripts start",

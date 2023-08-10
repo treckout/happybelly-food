@@ -66,12 +66,12 @@ const App = () => {
             var notificationTitle = 'New Order on HappyBelly'
             var notificationOptions = {
               body: payload.data.orderid,
-              icon: 'https://multivendor-admin.ninjascode.com/favicon.png'
+              icon: 'https://admin.happybelly.site/favicon.png'
             }
             const nt = new Notification(notificationTitle, notificationOptions)
             nt.onclick = function(event) {
               event.preventDefault() // prevent the browser from focusing the Notification's tab
-              window.open('https://multivendor-admin.ninjascode.com/dashboard')
+              window.open('https://admin.happybelly.site/dashboard')
               nt.close()
             }
           })
